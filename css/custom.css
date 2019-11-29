@@ -291,6 +291,7 @@ header .header-content .header-content-inner p {
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
+    outline: none;
 }
 
 .btn-default:hover,
@@ -344,6 +345,7 @@ fieldset[disabled] .btn-default.active {
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
+    outline: none;
 }
 
 .btn-primary:hover,
@@ -361,6 +363,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
     background-image: none;
+    outline: none;
 }
 
 .btn-primary.disabled,
@@ -392,11 +395,13 @@ fieldset[disabled] .btn-primary.active {
 
 
 .btn {
+    outline: none;
     border-radius: 300px;
     text-transform: uppercase;
 }
 
 .btn-lg {
+    outline: none;
     padding: 15px 30px;
 }
 
