@@ -156,7 +156,7 @@ header .header-content .header-content-inner p {
 	background: url('../images/pencil_sharpener.jpg');
 	}
 .item-0{
-height:40px
+height:70px
 }		
 .item-1,
 .item-2,
@@ -193,7 +193,7 @@ height:40px
 	}
 		
 .page-footer .small-print {
-	padding: 50px 0 40px;
+	padding: 10px 0 20px;
 	font-weight: 300;
 	}
 
@@ -685,13 +685,14 @@ button.contact:focus
 
 .email-form
 {
+margin:0 auto;
     height: 0;
     overflow: hidden;
 /*    background-color: #C7D0E1;*/
     width: 300px;
      z-index:-1;
     -webkit-transition: all 0.5s ease-in-out;
-    -moz-transition:    all 0.5s ease-in-out;
+    -moz-transition:    all 0.5s ease-in-out; 
     -o-transition:      all 0.5s ease-in-out;
     -ms-transition:     all 0.5s ease-in-out;
      transition: all 0.5s ease-in-out;
@@ -711,7 +712,7 @@ button.contact:focus
 .email-form input
 {
     width: 200px;
-    text-transform: capitalize;
+    
 /*    background-color: #a4acbc;*/
     margin: 0 auto;
     font-family: inherit;
@@ -742,7 +743,7 @@ button.contact:focus
 .email-form textarea
 {
     width: 200px;
-    text-transform: capitalize;
+    
     background-color: white;
     margin: 0 auto;
     display: block;
@@ -757,5 +758,6 @@ button.contact:focus
 
 .email-form button
 {
+border-radius:30px;
     margin-top: 60px;
 }
