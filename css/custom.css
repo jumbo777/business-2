@@ -670,8 +670,8 @@ button.contact:focus
     display: inline;
     
     width: auto;
-    margin-right:15px;
-    margin-left: 10px;
+    margin-right:0px;
+    margin-left: 0px;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition:    all 0.3s ease-in-out;
     -o-transition:      all 0.3s ease-in-out;
@@ -701,11 +701,11 @@ button.contact:focus
 {
     height: 310px;
     z-index: 3;
-    -webkit-transition: all 1s ease-in-out;
-    -moz-transition:    all 1s ease-in-out;
-    -o-transition:      all 1s ease-in-out;
-    -ms-transition:     all 1s ease-in-out;
-     transition: all 1s ease-in-out;
+    -webkit-transition: all 5s ease-in-out;
+    -moz-transition:    all 0.5s ease-in-out;
+    -o-transition:      all 0.5s ease-in-out;
+    -ms-transition:     all 0.5s ease-in-out;
+     transition: all 0.5s ease-in-out;
 }
 
 .email-form input
