@@ -193,7 +193,7 @@ height:70px
 	}
 		
 .page-footer .small-print {
-	padding: 10px 0 20px;
+	padding: 20px 0 10px;
 	font-weight: 300;
 	}
 
@@ -644,7 +644,7 @@ button.contact:focus
 
 .social-media-banner
 {
-    width: 300px;
+    width: auto;
     height: 50px;
     margin-top: 25px;
     text-align: center;
@@ -670,8 +670,8 @@ button.contact:focus
     display: inline;
     
     width: auto;
-    margin-right:0px;
-    margin-left: 0px;
+    margin-right:10px;
+    margin-left: 10px;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition:    all 0.3s ease-in-out;
     -o-transition:      all 0.3s ease-in-out;
@@ -689,7 +689,7 @@ margin:0 auto;
     height: 0;
     overflow: hidden;
 /*    background-color: #C7D0E1;*/
-    width: 300px;
+    width: auto;
      z-index:-1;
     -webkit-transition: all 0.5s ease-in-out;
     -moz-transition:    all 0.5s ease-in-out; 
@@ -711,7 +711,7 @@ margin:0 auto;
 
 .email-form input
 {
-    width: 200px;
+    width: 300px;
     
 /*    background-color: #a4acbc;*/
     margin: 0 auto;
@@ -742,7 +742,7 @@ margin:0 auto;
 }
 .email-form textarea
 {
-    width: 200px;
+    width: 300px;
     
     background-color: white;
     margin: 0 auto;
