@@ -142,7 +142,7 @@ header .header-content .header-content-inner p {
 text-align:center;
     font-size: 40px;
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 .item-1 {
