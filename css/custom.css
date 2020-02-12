@@ -155,7 +155,9 @@ header .header-content .header-content-inner p {
 .item-3 {
 	background: url('../images/pencil_sharpener.jpg');
 	}
-		
+.item-0{
+height:40px
+}		
 .item-1,
 .item-2,
 .item-3 {
@@ -505,18 +507,18 @@ button.contact:focus
 {
     z-index: 1;
     position: relative;
-    width: 300px;
+    width: auto;
     height:400px;
     margin: 0 auto;
-    margin-top:100px;
+    margin-top:60px;
     background-color: white;
     -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 	box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-    -webkit-transition: all 0.7s ease-in-out;
-    -moz-transition:    all 0.7s ease-in-out;
-    -o-transition:      all 0.7s ease-in-out;
-    -ms-transition:     all 0.7s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition:    all 0.3s ease-in-out;
+    -o-transition:      all 0.3s ease-in-out;
+    -ms-transition:     all 0.3s ease-in-out;
 /*
         -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
 	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
@@ -538,10 +540,10 @@ button.contact:focus
     background-size: cover;
     border-bottom: solid 1px lightgrey;
   
-    -webkit-transition: all 0.7s ease-in-out;
-    -moz-transition:    all 0.7s ease-in-out;
-    -o-transition:      all 0.7s ease-in-out;
-    -ms-transition:     all 0.7s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition:    all 0.3s ease-in-out;
+    -o-transition:      all 0.3s ease-in-out;
+    -ms-transition:     all 0.3s ease-in-out;
 }
 
 .banner.active
@@ -566,10 +568,10 @@ button.contact:focus
     -webkit-box-shadow: inset 0px 0px 5px 1px rgba(0,0,0,0.3);
     -moz-box-shadow: inset 0px 0px 5px 1px rgba(0,0,0,0.3);
     box-shadow: inset 0px 0px 5px 1px rgba(0,0,0,0.3);
-    -webkit-transition: top 0.7s ease-in-out, background 0.15s ease;
-    -moz-transition:    top 0.7s ease-in-out, background 0.15s ease;
-    -o-transition:      top 0.7s ease-in-out, background 0.15s ease;
-    -ms-transition:     top 0.7s ease-in-out, background 0.15s ease;
+    -webkit-transition: top 0.3s ease-in-out, background 0.15s ease;
+    -moz-transition:    top 0.3s ease-in-out, background 0.15s ease;
+    -o-transition:      top 0.3s ease-in-out, background 0.15s ease;
+    -ms-transition:     top 0.3s ease-in-out, background 0.15s ease;
 }
 
 .photo.active
@@ -584,10 +586,10 @@ button.contact:focus
     margin-top:87px;
     margin-bottom:30px;
     font-size: 20px;
-    -webkit-transition: all 0.7s ease-in-out;
-    -moz-transition:    all 0.7s ease-in-out;
-    -o-transition:      all 0.7s ease-in-out;
-    -ms-transition:     all 0.7s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition:    all 0.3s ease-in-out;
+    -o-transition:      all 0.3s ease-in-out;
+    -ms-transition:     all 0.3s ease-in-out;
 }
 
 .card ul.active
