@@ -139,6 +139,7 @@ header .header-content .header-content-inner p {
 }
 
 .promo-item h3 {
+text-align:center;
     font-size: 40px;
     display: inline-block;
     vertical-align: middle;
