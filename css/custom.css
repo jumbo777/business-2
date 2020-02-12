@@ -167,6 +167,25 @@ header .header-content .header-content-inner p {
 	text-align: center;
 	}
 
+
+
+
+a
+{
+
+    text-decoration: none;
+
+}
+
+
+.card
+{
+    z-index: 1;
+    position: relative;
+    width: 300px;
+
+
+
 .page-footer .contact {
 	padding: 100px 0;
 	background-color: yellowgreen;
