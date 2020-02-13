@@ -509,7 +509,7 @@ button.contact:focus
     z-index: 1;
     position: relative;
     width: 90%;
-    height:400px;
+    height:450px;
     margin: 0 auto;
     margin-top:60px;
     background-color: white;
@@ -586,7 +586,7 @@ button.contact:focus
     padding-left: 0;
     margin-top:87px;
     margin-bottom:20px;
-    font-size: 25px;
+    font-size: 18px;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition:    all 0.3s ease-in-out;
     -o-transition:      all 0.3s ease-in-out;
@@ -615,8 +615,9 @@ button.contact
 {
     margin: 0 auto;
     text-align: center;
-    margin-top: -15px;
-    width: 80%;
+    margin-top: -5px;
+    width: 90%;
+border-radius:20px;
     height: 40px;
     display: block;    
     border:none;
