@@ -586,7 +586,7 @@ button.contact:focus
     padding-left: 0;
     margin-top:87px;
     margin-bottom:30px;
-    font-size: 16px;
+    font-size: 25px;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition:    all 0.3s ease-in-out;
     -o-transition:      all 0.3s ease-in-out;
@@ -601,7 +601,7 @@ button.contact:focus
 
 .card i
 {
-    font-size: 10px;
+    font-size: 14px;
     display: inline-block;
     margin-top:10px;
     margin-left: 40px;
@@ -740,7 +740,7 @@ margin:0 auto;
 ::-webkit-input-placeholder 
 {
  font-size: 12px;
- text-transform: uppercase;
+ 
  text-align: center;
 /*    color: black;*/
 }
