@@ -89,6 +89,34 @@ header .header-content .header-content-inner p {
     }
 }
 
+
+.container-main {
+  background-color: lightcoral;
+  
+  /*  grid   */
+  height: 100%; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  background-color: lightcyan;
+  
+  /*  grid  */
+  max-width: 100%;
+}
+
+.caption {
+  background-color: lightgreen;
+  text-align: center;
+  
+  /*  grid  */
+  width: 100%;
+}
+
+
 .section-heading {
     margin-top: 0;
     margin-bottom: 20px;
