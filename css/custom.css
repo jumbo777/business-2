@@ -95,8 +95,10 @@ header .header-content .header-content-inner p {
   
   /*  grid   */
   height: 100%; 
-  float:right;
-overflow:wrap;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .image {
