@@ -95,6 +95,7 @@ header .header-content .header-content-inner p {
 }
 
 .intro {
+        width:95%;
 	color: #fff;
     background-color: yellowgreen;
     padding: 70px 0;
@@ -102,15 +103,18 @@ header .header-content .header-content-inner p {
 }
 
 .content {
+width:95%;
     padding: 100px 0;
 }
 
 .content-2 {
+width:95%;
 	color: #fff;
     background-color: #222;
 }
 
 .content-3 {
+width:95%;
 	padding: 20px 0 40px;
 	text-align: center;
 }
@@ -615,7 +619,7 @@ button.contact
 {
     margin: 0 auto;
     text-align: center;
-    margin-top: -5px;
+    margin-top: 15px;
     width: 90%;
 border-radius:20px;
     height: 40px;
