@@ -91,10 +91,11 @@ header .header-content .header-content-inner p {
 
 
 .container-main {
-  background-color: lightcoral;
+ 
   
   /*  grid   */
-  height: 100%; 
+  height: 100%;
+width:80%; 
   display: flex;
   flex-direction: row;
   
@@ -103,14 +104,15 @@ flex-wrap:wrap;
 }
 
 .container-main i {
-  background-color: lightcyan;
+  
   
   /*  grid  */
+padding:8px;
   max-width: 100%;
 }
 
 .caption {
-  background-color: lightgreen;
+  
   text-align: center;
   
   /*  grid  */
