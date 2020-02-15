@@ -25,7 +25,7 @@ p {
 header {
     position: relative;
     width: 100%;
-    min-height: auto;
+    height: 30%;
     text-align: center;
     color: #fff;
     background-image: url('../images/header.jpg');
