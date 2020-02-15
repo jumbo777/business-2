@@ -95,6 +95,7 @@ header .header-content .header-content-inner p {
   
   /*  grid   */
   height: 100%;
+margin: 0 auto;
 width:85%; 
   display: flex;
   flex-direction: row;
