@@ -31,7 +31,7 @@ margin-bottom:-15px;
     color: #fff;
     background-image: url('../images/header.jpg');
     background-position: center;
-   clip-path: polygon(0% 0%, 100% 0%, 100% 80%, 60% 76%, 50% 82%, 40% 76%, 0 80%);
+   clip-path: polygon(0% 0%, 100% 0%, 100% 80%, 58% 88%, 50% 94%, 42% 88%, 0 80%);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
