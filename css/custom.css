@@ -100,7 +100,7 @@ width:85%;
   display: flex;
   flex-direction: row;
   text-align:center;
-  align-content:center;
+  align-items:center;
 flex-wrap:wrap;
 }
 
@@ -108,7 +108,8 @@ flex-wrap:wrap;
   
   
   /*  grid  */
-padding:8px;
+padding:10px;
+font-size:15px;
   max-width: 100%;
 }
 
