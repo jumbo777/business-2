@@ -97,7 +97,7 @@ header .header-content .header-content-inner p {
   height: 100%; 
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  
   align-content:flex-start;
 flex-wrap:wrap;
 }
