@@ -27,7 +27,7 @@ header {
     width: 100%;
     height: auto;
     text-align: center;
-margin-bottom:-15px;
+margin-bottom:-18px;
     color: #fff;
     background-image: url('../images/header.jpg');
     background-position: center;
@@ -113,7 +113,7 @@ flex-wrap:wrap;
   
   /*  grid  */
 padding:10px;
-font-size:12px;
+font-size:14px;
   max-width: 100%;
 }
 
