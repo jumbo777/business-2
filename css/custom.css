@@ -36,6 +36,7 @@ margin-bottom:-15px;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+z-index:100;
 }
 
 header .header-content {
