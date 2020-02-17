@@ -145,18 +145,18 @@ px solid white;
 }
 
 .content {
-
+margin: 0 3px;
     padding: 40px 0;
 }
 
 .content-2 {
-
+margin:0 3px;
 	color: #fff;
     background-color: #222;
 }
 
 .content-3 {
-
+margin:0 3px;
 	padding: 20px 0 40px;
 	text-align: center;
 }
