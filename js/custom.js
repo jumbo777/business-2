@@ -3,7 +3,7 @@ $('#siteNav').affix({
 	offset: {
 		top: 100
 	}
-})
+});
 
 $("#typed").typed({
   		strings: ["Hello world.", "Check this out.", "Add any text you like here."],
