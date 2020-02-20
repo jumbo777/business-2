@@ -1,20 +1,4 @@
-// Offset for Site Navigation
-$('#siteNav').affix({
-	offset: {
-		top: 100
-	}
-});
 
-$("#typed").typed({
-  		strings: ["Hello world.", "Check this out.", "Add any text you like here."],
-  		typeSpeed: 100,
-  		startDelay: 0,
-  		backSpeed: 60,
-  		backDelay: 2000,
-  		loop: true,
-  		cursorChar: "|",
-  		contentType: 'html'
-  	});
 
 
 $(document).ready(function()
@@ -38,6 +22,23 @@ $(document).ready(function()
             $('button.contact#main-button').text(buttonText);
         }
     });
+// Offset for Site Navigation
+$('#siteNav').affix({
+	offset: {
+		top: 100
+	}
+});
+
+$("#typed").typed({
+  		strings: ["Hello world.", "Check this out.", "Add any text you like here."],
+  		typeSpeed: 100,
+  		startDelay: 0,
+  		backSpeed: 60,
+  		backDelay: 2000,
+  		loop: true,
+  		cursorChar: "|",
+  		contentType: 'html'
+  	});
 });
 //turn on to make the photo follow mouse
 // $(document).ready(function()
