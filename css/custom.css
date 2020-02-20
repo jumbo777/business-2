@@ -55,7 +55,7 @@ header .header-content .header-content-inner h1 {
 }
 
 
-.typed-cursor{
+header .header-content .header-content-inner .type-wrap .typed-cursor{
     opacity: 1;
     -webkit-animation: blink 0.7s infinite;
     -moz-animation: blink 0.7s infinite;
