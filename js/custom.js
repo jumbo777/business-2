@@ -1,5 +1,5 @@
 
-
+"use strict"
 
 $(document).ready(function()
 {
@@ -39,7 +39,7 @@ $("#typed").typed({
   		cursorChar: "",
   		contentType: 'html'
   	});
-});
+
 //turn on to make the photo follow mouse
 // $(document).ready(function()
 // {
